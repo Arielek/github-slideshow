@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ariel!
+![Twitter Follow](https://img.shields.io/twitter/follow/Arizowe?style=social)
 
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
